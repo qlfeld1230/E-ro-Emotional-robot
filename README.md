@@ -85,4 +85,7 @@ E-ro utilizes the following technologies and approaches:
 ---
 
 ## **GPIO pin diagram**
+![GPIO Pin Diagram](Img/GPIO_pin_diagram.png)
 
+## **Algorithm**
+![Algorithm Flow](Img/Algorithm.jpg)
