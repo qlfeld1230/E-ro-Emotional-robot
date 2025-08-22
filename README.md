@@ -89,3 +89,9 @@ E-ro utilizes the following technologies and approaches:
 
 ## **Algorithm**
 ![Algorithm Flow](Img/Algorithm.jpg)
+
+---
+
+## **컨소시엄**
+
+### 본 프로젝트는 산업통상자원부가 주최하는 '2023년 창의적 종합설계 경진대회'에서 '공학혁신상'을 수상하였습니다.
